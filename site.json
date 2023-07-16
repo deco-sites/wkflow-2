@@ -1,5 +1,8 @@
 {
-  "siteId": 8,
-  "namespace": "deco-sites/start",
-  "imports": ["$live/live.gen.ts", "deco-sites/std/live.gen.ts"]
+  "siteId": 1838,
+  "namespace": "deco-sites/wkflow-2",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
 }
